@@ -46,8 +46,8 @@ fine-tuning-distilbert-emotion-classification/
 
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/shaadclt/fine-tune-distilbert-emotion-classification.git
-cd fine-tune-distilbert-emotion-classification
+git clone https://github.com/shaadclt/fine-tuning-distilbert-emotion-classification.git
+cd fine-tuning-distilbert-emotion-classification
 pip install -r requirements.txt
 ```
 
