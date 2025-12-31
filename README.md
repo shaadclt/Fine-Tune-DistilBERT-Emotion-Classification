@@ -77,7 +77,7 @@ This project demonstrates end-to-end expertise in fine-tuning transformer models
 
 `Machine Learning`, `Natural Language Processing`, `NLP`, `Transformers`, `DistilBERT`, `Fine-Tuning`, `Emotion Classification`, `Deep Learning`, `PyTorch`, `Flask`, `Model Deployment`, `AI Engineering`
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 **Mohamed Shaad**
 Machine Learning Engineer | NLP & Generative AI
